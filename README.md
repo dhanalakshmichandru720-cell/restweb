@@ -256,11 +256,7 @@ contact.html
 
 
 ## OUTPUT:
-<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/277ff83d-a83a-4942-9f3d-8ca551575d10" />
-<img width="1600" height="949" alt="image" src="https://github.com/user-attachments/assets/f14c5b67-bb6f-4438-ba91-f62a95492f84" />
-<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/82a869b3-4e72-4119-8393-25473d439a89" />
-<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/fce831d2-f8f0-4301-9cb3-fe7014b9eb2c" />
-<img width="1600" height="947" alt="image" src="https://github.com/user-attachments/assets/004b91a0-d3ec-49af-b965-8c9eee5649cf" />
+<img width="505" height="694" alt="image" src="https://github.com/user-attachments/assets/54dfa827-3e43-4563-a4b1-a15ef7ab11dd" />
 
 
 
