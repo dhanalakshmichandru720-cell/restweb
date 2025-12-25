@@ -257,6 +257,8 @@ contact.html
 
 ## OUTPUT:
 <img width="505" height="694" alt="image" src="https://github.com/user-attachments/assets/54dfa827-3e43-4563-a4b1-a15ef7ab11dd" />
+<img width="793" height="916" alt="Screenshot 2025-12-25 105917" src="https://github.com/user-attachments/assets/81ee1888-a7fb-4611-9dce-338bda7346fa" />
+
 
 
 
